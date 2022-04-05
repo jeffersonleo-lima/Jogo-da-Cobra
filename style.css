@@ -1,0 +1,24 @@
+body{
+    height: 95vh;
+    width: 95vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url(img/cta_alt.png);
+    background-size: cover;
+    color: brown;
+}
+
+#snake{
+    border: black solid 5px;
+    border-radius: 30px;
+}
+
+#grama{
+    display: none;
+}
+
+#maca{
+    display: none;
+}
